@@ -37,6 +37,9 @@ Aplicação web interativa para análise histórica do Campeonato Brasileiro.
 
 ### 📊 Estatísticas do GitHub
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=FelipeEsmaile&data=followers,repositories,stars,commits&theme=dark" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeEsmaile&show_icons=true&count_private=true&bg_color=0D1117&title_color=FFD700&text_color=E6EDF2&icon_color=FFD700" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeEsmaile&layout=compact&bg_color=0D1117&title_color=FFD700&text_color=E6EDF2" />
+</p>
 
 ---
