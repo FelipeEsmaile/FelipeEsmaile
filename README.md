@@ -21,7 +21,7 @@
 | **Manipulação & Análise** | `Pandas` `Cálculos Estatísticos` `Limpeza de Dados` |
 | **Visualização & BI** | `Streamlit` `Plotly` `Power BI` `Tableau` `Google Sheets` |
 | **Bancos de Dados** | `MySQL` `PostgreSQL` `Oracle` `MongoDB` |
-| **DevOps & Outros** | `Git/GitHub` `Engenharia de Prompt (LLMs)` |
+| **Outros** | `Git/GitHub` `Engenharia de Prompt (LLMs)` |
 
 ---
 
